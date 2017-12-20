@@ -1,0 +1,3 @@
+44321584,  James, Butt, Residential, 350, Jul, 22.86
+51631223,  Josephine, Darakjy, Commercial, 700, Aug, 55.90	
+27701760,  Francoise, Rautenstrauch, Residential, 601, Jan, 34.11
